@@ -34,16 +34,17 @@ public final class R {
         public static final int icon=0x7f020009;
         public static final int icon2=0x7f02000a;
         public static final int icon3=0x7f02000b;
-        public static final int littleicon=0x7f02000c;
-        public static final int locationbutton=0x7f02000d;
-        public static final int main_background=0x7f02000e;
-        public static final int marker=0x7f02000f;
-        public static final int menu_background=0x7f020010;
-        public static final int redmarker=0x7f020011;
-        public static final int resticon=0x7f020012;
-        public static final int search=0x7f020013;
-        public static final int simpleicon=0x7f020014;
-        public static final int touricon=0x7f020015;
+        public static final int introbackground=0x7f02000c;
+        public static final int littleicon=0x7f02000d;
+        public static final int locationbutton=0x7f02000e;
+        public static final int main_background=0x7f02000f;
+        public static final int marker=0x7f020010;
+        public static final int menu_background=0x7f020011;
+        public static final int redmarker=0x7f020012;
+        public static final int resticon=0x7f020013;
+        public static final int search=0x7f020014;
+        public static final int simpleicon=0x7f020015;
+        public static final int touricon=0x7f020016;
     }
     public static final class id {
         public static final int MAP=0x7f08000c;
@@ -77,12 +78,13 @@ public final class R {
         public static final int activity_main=0x7f030000;
         public static final int fragment_main=0x7f030001;
         public static final int icon=0x7f030002;
-        public static final int map=0x7f030003;
-        public static final int menu=0x7f030004;
-        public static final int mlist=0x7f030005;
-        public static final int restaurentlist=0x7f030006;
-        public static final int restdetail=0x7f030007;
-        public static final int search=0x7f030008;
+        public static final int introactivity=0x7f030003;
+        public static final int map=0x7f030004;
+        public static final int menu=0x7f030005;
+        public static final int mlist=0x7f030006;
+        public static final int restaurentlist=0x7f030007;
+        public static final int restdetail=0x7f030008;
+        public static final int search=0x7f030009;
     }
     public static final class menu {
         public static final int main=0x7f070000;
